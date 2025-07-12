@@ -1,118 +1,137 @@
-# 🔐 Flutter Passkey Authentication
+<div align="center">
+  <h1>
+    <img src="assets/logo.jpeg" width="80px"><br/>
+    Flutter Passkey Authentication
+  </h1>
+  <h3>A Modern Solution for Secure, Passwordless Authentication</h3>
+</div>
 
-A modern authentication solution using passkeys and biometrics in Flutter. This app demonstrates secure authentication without traditional passwords, featuring a beautiful dashboard and comprehensive user management.
+<p align="center">
+    <a href="https://github.com/jamalihassan0307/" target="_blank">
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/jamalihassan0307/" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+</p>
 
-## ✨ Features
+## 📌 Overview
 
-- 📱 Modern Material Design UI with Purple Theme
-- 🔒 Biometric Authentication
-- 🔑 Passkey Support
-- 💾 Secure Credential Storage
-- 📊 Interactive Dashboard
-- 👤 User Profile Management
-- 🌓 Dark Mode Support
-- 🔔 Push Notifications
-- 🔐 Privacy Settings
+Flutter Passkey Authentication is a modern Flutter application that demonstrates secure, passwordless authentication using passkeys and biometrics. It features a beautiful dashboard, user management, and robust security for a seamless user experience.
 
-## 📱 Demo
+## 🚀 Tech Stack
 
-![Demo GIF](assets/gif.gif)
+- **Flutter**
+- **Local Auth** (biometric authentication)
+- **Flutter Secure Storage** (secure credential storage)
+- **Material Design**
+- **FL Chart** (for charts)
+
+## 🔑 Key Features
+
+- ✅ **Modern Material Design UI with Purple Theme**
+- ✅ **Biometric Authentication** (Fingerprint/FaceID)
+- ✅ **Passkey Support**
+- ✅ **Secure Credential Storage**
+- ✅ **Interactive Dashboard**
+- ✅ **User Profile Management**
+- ✅ **Dark Mode Support**
+- ✅ **Push Notifications**
+- ✅ **Privacy Settings**
 
 ## 📸 Screenshots
 
-### DEMO
+### App Flow
 
-<div style="display: flex; flex-direction: column; gap: 10px;">
-    <img src="assets/3_page_max.png" width="800" alt="Web Interface"/>
-    <img src="assets/3_page_max1.png" width="800" alt="Web Dashboard"/>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/setting_page.jpg" alt="Settings Page" width="200"/>
+      <p><b>Settings</b></p>
+    </td>
+    <td align="center">
+      <img src="assets/profile_page.jpg" alt="Profile Page" width="200"/>
+      <p><b>Profile</b></p>
+    </td>
+    <td align="center">
+      <img src="assets/passkey.png" alt="Passkey Icon" width="200"/>
+      <p><b>Passkey Icon</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/passkey_login.jpg" alt="Passkey Login" width="200"/>
+      <p><b>Passkey Login</b></p>
+    </td>
+    <td align="center">
+      <img src="assets/logo1.jpeg" alt="Logo 1" width="200"/>
+      <p><b>Logo 1</b></p>
+    </td>
+    <td align="center">
+      <img src="assets/logo.jpeg" alt="Logo" width="200"/>
+      <p><b>Logo</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/login_page.jpg" alt="Login Page" width="200"/>
+      <p><b>Login</b></p>
+    </td>
+    <td align="center">
+      <img src="assets/dashboard.jpg" alt="Dashboard" width="200"/>
+      <p><b>Dashboard</b></p>
+    </td>
+    <td align="center">
+      <img src="assets/gif.gif" alt="App Demo" width="200"/>
+      <p><b>Demo GIF</b></p>
+    </td>
+  </tr>
+</table>
 
-### 📱 Mobile View App
+### Banner
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="assets/login_page.jpg" width="200" alt="Login Page"/>
-    <img src="assets/passkey_login.jpg" width="200" alt="Passkey Login"/>
-    <img src="assets/dashboard.jpg" width="200" alt="Dashboard"/>
-    <img src="assets/profile_page.jpg" width="200" alt="Profile Page"/>
-    <img src="assets/setting_page.jpg" width="200" alt="Settings Page"/>
-</div>
+<p align="center">
+  <img src="assets/3_page_max.png" width="350" alt="Banner 1"/>
+  <img src="assets/3_page_max1.png" width="350" alt="Banner 2"/>
+</p>
 
-## 📱 App Workflow
+## 📁 Project Structure
 
-1. **Login Screen**
+```
+Flutter-passkeys-authentication/
+├── lib/
+│   ├── pages/
+│   ├── services/
+│   ├── theme/
+│   └── main.dart
+├── assets/
+├── contributors/
+├── release/
+├── pubspec.yaml
+└── README.md
+```
 
-   - Traditional email/password login
-   - Passkey authentication option
-   - Biometric login support
+## 📥 Installation
 
-2. **Dashboard**
+Download the latest APK:
+[Download APK](release/app-arm64-v8a-release.apk)
 
-   - Real-time statistics
-   - Sales overview with interactive charts
-   - Recent transactions monitoring
-   - Quick access to key metrics
+## 👨‍💻 Contributors
 
-3. **Profile Management**
+<p align="center">
+  <a href="https://github.com/ammar7874" target="_blank">
+    <img src="contributors/ammar7874.png" width="80" style="border-radius:50%" alt="ammar7874"/>
+    <br/>ammar7874
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/jamalihassan0307" target="_blank">
+    <img src="contributors/jamalihassan0307.jpg" width="80" style="border-radius:50%" alt="jamalihassan0307"/>
+    <br/>jamalihassan0307
+  </a>
+</p>
 
-   - User information display
-   - Profile picture management
-   - Contact information
-   - Account settings
+---
 
-4. **Settings**
-   - Dark mode toggle
-   - Notification preferences
-   - Privacy settings
-   - App information
-
-## 🛠️ Technical Implementation
-
-### Authentication Flow
-
-1. **Traditional Login**
-
-   - Email/password validation
-   - Secure credential verification
-   - Option to enable passkey
-
-2. **Passkey Setup**
-
-   - Biometric registration
-   - Secure key generation
-   - Device binding
-
-3. **Biometric Authentication**
-   - Fingerprint/Face recognition
-   - Secure token management
-   - Automatic login capability
-
-### Dashboard Features
-
-- Real-time data visualization
-- Interactive charts using fl_chart
-- Transaction monitoring
-- User statistics tracking
-
-
-## 🔒 Security Features
-
-- Secure credential storage
-- Biometric authentication
-- Encrypted data transmission
-- Session management
-- Privacy-focused design
-
-
-## 📞 Contact
-
-Hassan Jamali - [@jamalihassan0307](https://github.com/jamalihassan0307)
-
-Project Link: [https://github.com/jamalihassan0307/Flutter-passkeys-authentication](https://github.com/jamalihassan0307/Flutter-passkeys-authentication)
-
-## 🙏 Acknowledgments
-
-- Flutter Team
-- Local Auth package contributors
-- Flutter Secure Storage team
-- FL Chart package for beautiful charts
-- Material Design team for UI inspiration
+<p align="center">
+  Made with ❤️ using Flutter
+</p>
