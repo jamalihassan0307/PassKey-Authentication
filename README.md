@@ -122,18 +122,24 @@ Download the latest APK:
 
 ## ��‍💻 Contributors
 
-<h2 align="center">👨‍💻 Contributors</h2>
-
-<p align="center">
-  <a href="https://github.com/ammar7874" target="_blank">
-    <img src="contributors/ammar7874.png" width="80" style="border-radius:50%; border:2px solid #ccc; margin: 0 20px;" alt="ammar7874"/><br/>
-    <b>ammar7874</b>
-  </a>
-  <a href="https://github.com/jamalihassan0307" target="_blank">
-    <img src="contributors/jamalihassan0307.jpg" width="80" style="border-radius:50%; border:2px solid #ccc; margin: 0 20px;" alt="jamalihassan0307"/><br/>
-    <b>jamalihassan0307</b>
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 0 20px;">
+        <a href="https://github.com/ammar7874" target="_blank" style="text-decoration: none;">
+          <img src="contributors/ammar7874.png" width="80" style="border-radius:50%; border:2px solid #ccc;" alt="ammar7874"/><br/>
+          <b>ammar7874</b>
+        </a>
+      </td>
+      <td align="center" style="padding: 0 20px;">
+        <a href="https://github.com/jamalihassan0307" target="_blank" style="text-decoration: none;">
+          <img src="contributors/jamalihassan0307.jpg" width="80" style="border-radius:50%; border:2px solid #ccc;" alt="jamalihassan0307"/><br/>
+          <b>jamalihassan0307</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
