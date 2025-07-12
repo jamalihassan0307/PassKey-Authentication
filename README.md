@@ -41,21 +41,23 @@ Flutter Passkey Authentication is a modern Flutter application that demonstrates
 
 ## 📸 Screenshots
 
-### App Flow
+<h2 align="center">📸 Screenshots</h2>
 
-<table>
+<div align="center">
+
+<table border="1" cellpadding="8">
   <tr>
     <td align="center">
-      <img src="assets/setting_page.jpg" alt="Settings Page" width="200"/>
-      <p><b>Settings</b></p>
+      <img src="assets/setting_page.jpg" alt="Settings" width="180" style="border-radius:12px; box-shadow:0 2px 8px #ccc;">
+      <div><b>Settings</b></div>
     </td>
     <td align="center">
-      <img src="assets/profile_page.jpg" alt="Profile Page" width="200"/>
-      <p><b>Profile</b></p>
+      <img src="assets/profile_page.jpg" alt="Profile" width="180" style="border-radius:12px; box-shadow:0 2px 8px #ccc;">
+      <div><b>Profile</b></div>
     </td>
     <td align="center">
-      <img src="assets/passkey.png" alt="Passkey Icon" width="200"/>
-      <p><b>Passkey Icon</b></p>
+      <img src="assets/passkey.png" alt="Passkey" width="180" style="border-radius:12px; box-shadow:0 2px 8px #ccc;">
+      <div><b>Passkey</b></div>
     </td>
   </tr>
   <tr>
@@ -88,6 +90,8 @@ Flutter Passkey Authentication is a modern Flutter application that demonstrates
   </tr>
 </table>
 
+</div>
+
 ### Banner
 
 <p align="center">
@@ -116,17 +120,18 @@ Flutter-passkeys-authentication/
 Download the latest APK:
 [Download APK](release/app-arm64-v8a-release.apk)
 
-## 👨‍💻 Contributors
+## ��‍💻 Contributors
+
+<h2 align="center">👨‍💻 Contributors</h2>
 
 <p align="center">
   <a href="https://github.com/ammar7874" target="_blank">
-    <img src="contributors/ammar7874.png" width="80" style="border-radius:50%" alt="ammar7874"/>
-    <br/>ammar7874
+    <img src="contributors/ammar7874.png" width="80" style="border-radius:50%; border:2px solid #ccc; margin: 0 20px;" alt="ammar7874"/><br/>
+    <b>ammar7874</b>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/jamalihassan0307" target="_blank">
-    <img src="contributors/jamalihassan0307.jpg" width="80" style="border-radius:50%" alt="jamalihassan0307"/>
-    <br/>jamalihassan0307
+    <img src="contributors/jamalihassan0307.jpg" width="80" style="border-radius:50%; border:2px solid #ccc; margin: 0 20px;" alt="jamalihassan0307"/><br/>
+    <b>jamalihassan0307</b>
   </a>
 </p>
 
